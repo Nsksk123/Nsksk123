@@ -1,2 +1,4 @@
 Rencana Tahun 2023
-- Tidak tau
+- Menguasai PHP
+- Lebih giat untuk belajar
+- Bisa membuat project kecil kecilan
